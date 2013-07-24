@@ -1,0 +1,140 @@
+Drake's Apple Fruit Pie
+440
+28
+27
+Snack
+1.5
+images/logos/Drakes.jpg
+Austin Cheese Crackers
+210
+3
+10
+Snack
+1.5
+images/logos/Austin.jpg
+Pop-Tarts Frosted Strawberry
+420
+40
+10
+Snack
+1.5
+images/logos/Poptarts.png
+Doritos Cheesier
+140
+2
+7
+Snack
+1.5
+images/logos/DoritosCheese.gif
+Doritos Ranch
+140
+1
+7
+Snack
+1.5
+images/logos/DoritosRanch.gif
+Skittles
+250
+46
+2.5
+Snack
+1
+images/logos/Skittles.jpg
+Cheeze-It Baked Crackers
+160
+1
+8
+Snack
+1
+images/logos/CheezIt.jpg
+Ruffles Original
+160
+2
+10
+Snack
+1
+images/logos/Ruffles.jpg
+Cheetos Crunchy
+160
+0
+11
+Snack
+1.5
+images/logos/Cheetos.gif
+Twix
+280
+27
+14
+Snack
+1.5
+images/logos/Twix.jpg
+3 Musketeers
+260
+40
+8
+Snack
+1
+images/logos/3Musk.jpg
+Coca-Cola (20 oz)
+240
+65
+0
+Beverage
+1.5
+images/logos/Coke.jpg
+Coca-Cola Zero (20 oz)
+0
+0
+0
+Beverage
+1.5
+images/logos/CokeZero.jpg
+Sprite (20 oz)
+100
+26
+0
+Beverage
+1.5
+images/logos/Sprite.jpg
+Powerade Zero (20 oz)
+0
+0
+0
+Beverage
+1.5
+images/logos/Powerade.jpg
+Full Throttle Citrus (16 oz)
+220
+58
+0
+Beverage
+2
+images/logos/FullThrottle.jpg
+FUZE Black & Green Tea ACAI BERRY
+130
+31
+0
+Beverage
+1.5
+images/logos/Fuze.jpg
+Dasani Water (20 oz)
+0
+0
+0
+Beverage
+1.5
+images/logos/Dasani.jpg
+Seagram’s Ginger Ale
+80
+24
+0
+Beverage
+1.5
+images/logos/GingerAle.jpg
+Full Throttle Blue Agave
+230
+58
+0
+Beverage
+2
+images/logos/FullThrottleBlue.jpg
