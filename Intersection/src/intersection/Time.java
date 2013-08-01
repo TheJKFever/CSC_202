@@ -23,11 +23,6 @@ public class Time {
 		return ((new Date()).getTime()-date.getTime());
 	}
 	
-	public Date floatToTime(float timeF){
-		date = new Date((long)timeF);
-		return date;
-	}
-	
 	public String toString(){
 		return (sdf.format(date));
 	}
