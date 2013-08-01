@@ -5,7 +5,7 @@ import queues.LinkedQueue;
 public class Lane {
 	private String streetName;
 	private boolean green, red;
-	public LinkedQueue<Car> carQueue;
+	private LinkedQueue<Car> carQueue;
 
 	public Lane(String streetName, boolean go){
 		carQueue = new LinkedQueue<Car>();
