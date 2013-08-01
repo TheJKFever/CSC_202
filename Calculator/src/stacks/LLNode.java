@@ -1,6 +1,6 @@
 package stacks;
 
-public class LLNode<T>
+public class LLNode<T extends Comparable<T>>
 {
   private LLNode<T> link;
   private T info;
@@ -34,6 +34,12 @@ public class LLNode<T>
   {
     return link;
   }
+  
+	@SuppressWarnings("unchecked")
+	public int compareTo(T other) {
+		return ((Comparable<T>)this.getData()).compareTo(other);	
+	}
+  
 }
  
  
